@@ -1,0 +1,8 @@
+Yazi
+Appdata/Roaming
+
+Nvim
+Appdata/Local
+
+Glaze - Zebar
+Users/$USER/
