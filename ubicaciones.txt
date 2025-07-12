@@ -5,4 +5,4 @@ Nvim
 Appdata/Local
 
 Glaze - Zebar
-Users/$USER/
+Users/$USER/.glzr
