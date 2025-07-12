@@ -1,5 +1,5 @@
 # win-tiled-setup
-Los archivos de configuración principales para hacer que mi escritorio luzca así
+Configuration files for using Windows 11 with GlazeWM as a window manager, Yazi as a file explorer, Neovim as a code and text editor, Edge extensions for browsing with Vim, and random configuration of my terminal.
 ![](https://i.imgur.com/qs4Jo2Y.png)
 
 ![](https://i.imgur.com/BXYqvMV.png)
