@@ -5,3 +5,9 @@
 vim.opt.shell = "pwsh.exe"
 vim.opt.clipboard = "unnamedplus"
 vim.g.lazyvim_php_lsp = "intelephense"
+vim.opt.wrap = true
+vim.opt.scrolloff = 10
+vim.opt.spell = false
+vim.opt.expandtab = true
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
