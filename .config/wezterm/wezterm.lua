@@ -21,5 +21,7 @@ config.default_prog = { "pwsh.exe", "-NoLogo" }
 
 config.window_decorations = "RESIZE"
 
+config.enable_kitty_graphics = true
+
 -- Finally, return the configuration to wezterm:
 return config
